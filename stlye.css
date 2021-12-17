@@ -1,0 +1,18 @@
+body{
+    text-align: center
+}
+section{
+    height: 100%
+}
+#app{
+    background-color: aqua
+}
+#games{
+    background-color: beige
+}
+#websites{
+    background-color: cadetblue
+}
+img:hover{
+    transform: scale(0.60)
+}
